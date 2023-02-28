@@ -16,5 +16,6 @@ If you are using MDREAM in your research, please cite:
 Quang Thinh Trac, Yudi Pawitan, Tian Mou, Tom Erkers, P ̈aivi  ̈Ostling, Anna Bohlin,
 Albin  ̈Osterroos, Mattias Vesterlund, Rozbeh Jafari, Ioannis Siavelis, Helena B ̈ackvall, San-
 teri Kiviluoto, Lukas M. Orre, Mattias Rantalainen, Janne Lehti ̈o, S ̈oren Lehmann, Olli
-Kallioniemi, and Trung Nghia Vu. Prediction model for drug response of acute myeloid leukemia patients. Accepted to publish in npj Precision Oncology.
+Kallioniemi, and Trung Nghia Vu. Prediction model for drug response of acute myeloid leukemia patients.
+Accepted to publish in npj Precision Oncology, 2023.
 ```
